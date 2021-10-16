@@ -1,4 +1,4 @@
-Credit: **Nguyen Thinh Khang (Dev)**, in Selenium K1 for contributing the exercise.
+Credit: **[Nguyen Thinh Khang](https://github.com/thinhkhang97) (Dev)**, in Selenium K1 for contributing the exercise.
 This is the first simple version racing contest problem.
 
 ## Racing animal simple version
