@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="260535c7-a315-475e-9a88-0ef12e33eb68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/appium-k5/Lab.2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +84,7 @@
       <updated>1634137362473</updated>
       <workItem from="1634137363726" duration="15914000" />
       <workItem from="1634386398707" duration="7298000" />
+      <workItem from="1635864171130" duration="961000" />
     </task>
     <servers />
   </component>

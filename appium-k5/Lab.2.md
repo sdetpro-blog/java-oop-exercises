@@ -1,5 +1,5 @@
 ## Printing out stars
-* Given a number that user input from keyboard, please print the stars from maximum to 1 in order, line by line
+* Given a number that user inputs from keyboard, please print the stars from maximum to 1 in order, line by line
 * Example:
 ```
 input: 9
@@ -28,3 +28,5 @@ output:
 (1, 4)
 (2, 3)
 ```
+
+* If we have no pair, you can return -1 or just print `we don't have any pair`
