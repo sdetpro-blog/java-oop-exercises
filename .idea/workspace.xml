@@ -52,15 +52,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selenium-k4" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/selenium-k7" />
       <recent name="$PROJECT_DIR$/appium-k5" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/selenium-k4" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +93,7 @@
       <workItem from="1645624823955" duration="3479000" />
       <workItem from="1645839649415" duration="506000" />
       <workItem from="1646143216044" duration="722000" />
-      <workItem from="1646223333308" duration="565000" />
+      <workItem from="1646223333308" duration="1085000" />
     </task>
     <servers />
   </component>
