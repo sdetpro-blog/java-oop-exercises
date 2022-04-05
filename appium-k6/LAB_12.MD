@@ -24,5 +24,5 @@ public void printSortedBooksByISBN(List<Book> bookList){}
 OR:
 public void printSortedBooks(List<Book> bookList, SortingType sortingType){}
 
-// And other support methods to make sure we use best practice for Single Reposible
+// And other support methods to make sure we use best practice for Single Reposibility
 ```
