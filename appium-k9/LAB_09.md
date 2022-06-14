@@ -1,0 +1,1 @@
+SIMPLE! Do the LAB 7.1 again with abstraction! (speed method should be abstract method)
