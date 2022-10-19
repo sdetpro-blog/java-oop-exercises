@@ -1,0 +1,1 @@
+SIMPLE! Do the lab 9.2 again with abstraction! 
