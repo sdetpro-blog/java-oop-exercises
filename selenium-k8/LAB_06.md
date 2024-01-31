@@ -17,3 +17,15 @@ Allow user to input maximum 3 times
 # LAB 6.4
 * String url = "https://google.com";
 * Check http OR https; domain name, .com OR .net
+
+# LAB 6.5 (Optional)
+* Allow user to input a sentence
+* Count the words and group them
+* Ex: Hello, tui ten teo, ban co phai ten teo khong?
+```shell
+Output: -->
+Hello: 1
+tui: 1
+teo: 2
+...
+```
